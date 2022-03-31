@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A hardworking developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React Dashboards**
+- 🔭 I’m currently working on **React Testing**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Jest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/burakdemirrr](https://github.com/burakdemirrr)
 
