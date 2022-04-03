@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jest**
 
-- 💬 Ask me about **HTML,CSS,React,Redux,Firebase,JavasScript**
+- 💬 Ask me about **HTML,CSS,React,Redux,Firebase,JavaScript,Jest**
 
 - 📫 How to reach me **mburak.demir.059@gmail.com**
 
