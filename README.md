@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A hardworking developer from Turkey</h3>
 
-- 🔭 I’m currently working on **React Testing**
+- 🔭 I’m currently working on **NextJs Medium Clone**
 
-- 🌱 I’m currently learning **Jest**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **HTML,CSS,React,Redux,Firebase,JavaScript,Jest**
 
