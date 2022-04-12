@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/burakdemirrr](https://github.com/burakdemirrr)
 
-- 💬 Ask me about **HTML,CSS,React,Redux,Firebase,JavasScript**
+- 💬 Ask me about **HTML,CSS,React,Redux,Firebase,JavaScript**
 
 - 📫 How to reach me **mburak.demir.059@gmail.com**
 
