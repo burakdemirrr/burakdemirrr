@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakdemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="burakdemirrr" /> </p>
 
-- 🔭 I’m currently working on **Full-Stack Crud Application**
+- 🔭 I’m currently working on **Smart Contracts**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Assembly Script**
 
 - 👨‍💻 All of my projects are available at [https://github.com/burakdemirrr](https://github.com/burakdemirrr)
 
