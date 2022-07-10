@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakdemirrr&label=Profile%20views&color=0e75b6&style=flat" alt="burakdemirrr" /> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **TypeScript**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/burakdemirrr](https://github.com/burakdemirrr)
 
